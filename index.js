@@ -7,7 +7,6 @@ const words = [
   'puppy',
   'react',
   'computer',
-  'cody',
 ];
 let again = false;
 
